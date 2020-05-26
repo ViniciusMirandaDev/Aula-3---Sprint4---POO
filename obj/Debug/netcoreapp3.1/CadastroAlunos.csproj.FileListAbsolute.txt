@@ -1,0 +1,13 @@
+C:\Users\amand\Documents\POO senai\Aula-3---Sprint4---POO\CadastroAlunos\bin\Debug\netcoreapp3.1\CadastroAlunos.exe
+C:\Users\amand\Documents\POO senai\Aula-3---Sprint4---POO\CadastroAlunos\bin\Debug\netcoreapp3.1\CadastroAlunos.deps.json
+C:\Users\amand\Documents\POO senai\Aula-3---Sprint4---POO\CadastroAlunos\bin\Debug\netcoreapp3.1\CadastroAlunos.runtimeconfig.json
+C:\Users\amand\Documents\POO senai\Aula-3---Sprint4---POO\CadastroAlunos\bin\Debug\netcoreapp3.1\CadastroAlunos.runtimeconfig.dev.json
+C:\Users\amand\Documents\POO senai\Aula-3---Sprint4---POO\CadastroAlunos\bin\Debug\netcoreapp3.1\CadastroAlunos.dll
+C:\Users\amand\Documents\POO senai\Aula-3---Sprint4---POO\CadastroAlunos\bin\Debug\netcoreapp3.1\CadastroAlunos.pdb
+C:\Users\amand\Documents\POO senai\Aula-3---Sprint4---POO\CadastroAlunos\obj\Debug\netcoreapp3.1\CadastroAlunos.csprojAssemblyReference.cache
+C:\Users\amand\Documents\POO senai\Aula-3---Sprint4---POO\CadastroAlunos\obj\Debug\netcoreapp3.1\CadastroAlunos.csproj.CoreCompileInputs.cache
+C:\Users\amand\Documents\POO senai\Aula-3---Sprint4---POO\CadastroAlunos\obj\Debug\netcoreapp3.1\CadastroAlunos.AssemblyInfoInputs.cache
+C:\Users\amand\Documents\POO senai\Aula-3---Sprint4---POO\CadastroAlunos\obj\Debug\netcoreapp3.1\CadastroAlunos.AssemblyInfo.cs
+C:\Users\amand\Documents\POO senai\Aula-3---Sprint4---POO\CadastroAlunos\obj\Debug\netcoreapp3.1\CadastroAlunos.dll
+C:\Users\amand\Documents\POO senai\Aula-3---Sprint4---POO\CadastroAlunos\obj\Debug\netcoreapp3.1\CadastroAlunos.pdb
+C:\Users\amand\Documents\POO senai\Aula-3---Sprint4---POO\CadastroAlunos\obj\Debug\netcoreapp3.1\CadastroAlunos.genruntimeconfig.cache
