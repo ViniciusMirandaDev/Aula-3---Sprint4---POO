@@ -11,10 +11,17 @@ namespace CadastroAlunos
         public float mediaFinal;
         public float valorMensalidade;
 
+        /// <summary>
+        /// Mostra a média final do Aluno
+        /// </summary>
+        /// <returns>Valor da media final(float)</returns>
         public float VerMediaFinal(){
             return mediaFinal;
         }
-
+        /// <summary>
+        /// Calcular mensalidade de acordo com a bolsa disponível
+        /// </summary>
+        /// <returns>Valor da mensalidade a ser paga</returns>
         public float VerMensalidade(){
 
             float calculo = valorMensalidade;
@@ -24,6 +31,21 @@ namespace CadastroAlunos
             }
 
             return calculo;
+        }
+        /// <summary>
+        /// Aprimora a resposta do usuário
+        /// </summary>
+        /// <param name="condicao">texto capturado pelo console</param>
+        /// <returns>retorna se é bolsita ou não</returns>
+        public bool TraduzConsole(string condicao){
+
+            if(condicao == "sim"){
+                bolsista = true;
+            }else{
+                bolsista = false;
+            }
+
+            return bolsista;
         }
     }
 }
